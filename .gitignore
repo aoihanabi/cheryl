@@ -35,5 +35,6 @@
 yarn-debug.log*
 .yarn-integrity
 
-# Ignore .env file
+vendor/bundle
 .env
+Gemfile.lock
